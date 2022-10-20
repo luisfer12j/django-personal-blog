@@ -1,0 +1,5 @@
+Django==3.2.0
+djangorestframework==3.13.1
+pytest==7.1.2
+psycopg2
+python-decouple
